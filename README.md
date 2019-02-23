@@ -1,2 +1,2 @@
 # CV-only-html-
-Contains my CV written using only html
+This repository contains my cv using only html
